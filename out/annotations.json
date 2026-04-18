@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "LLM-generated annotations for price movements",
+    "last_updated": "2025-04-15T00:00:00Z"
+  },
+  "annotations": [
+    {
+      "date": "2025-01-20",
+      "region": "ncr",
+      "event_title": "Israel continues Gaza operations",
+      "summary": "Ongoing military operations in Middle East heighten geopolitical tensions, creating upward pressure on crude oil markets.",
+      "tags": ["geopolitics", "middle-east", "israel", "gaza"],
+      "price_impact": "up 0.7%",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://reuters.com",
+          "category": "news"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-15",
+      "region": "ncr",
+      "event_title": "US warns Iran over nuclear program",
+      "summary": "Escalating diplomatic tensions between US and Iran raise concerns about potential military escalation and oil supply disruptions.",
+      "tags": ["geopolitics", "iran", "us", "diplomacy"],
+      "price_impact": "up 0.9%",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com",
+          "category": "news"
+        },
+        {
+          "name": "Rappler",
+          "url": "https://rappler.com",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "region": "ncr",
+      "event_title": "US airstrikes on Iran",
+      "summary": "Direct military action between US and Iran dramatically escalates Middle East tensions. Oil markets respond with significant price increase.",
+      "tags": ["geopolitics", "iran", "us", "military", "critical"],
+      "price_impact": "up 2.1%",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://reuters.com",
+          "category": "news"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "region": "ncr",
+      "event_title": "Iran retaliates with missiles",
+      "summary": "Iran launches direct military retaliation, intensifying crisis. Market fears of supply disruptions push crude prices higher.",
+      "tags": ["geopolitics", "iran", "military", "retaliation", "critical"],
+      "price_impact": "up 1.8%",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://reuters.com",
+          "category": "news"
+        },
+        {
+          "name": "Rappler",
+          "url": "https://rappler.com",
+          "category": "news"
+        },
+        {
+          "name": "Truth Social",
+          "url": "https://truthsocial.com",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-05",
+      "region": "ncr",
+      "event_title": "Oil supply concerns ease",
+      "summary": "Temporary ceasefire reduces immediate market volatility, but prices remain elevated due to persistent geopolitical risk.",
+      "tags": ["geopolitics", "ceasefire", "market-sentiment"],
+      "price_impact": "up 0.8%",
+      "sources": [
+        {
+          "name": "Rappler",
+          "url": "https://rappler.com",
+          "category": "news"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com",
+          "category": "news"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-15",
+      "region": "ncr",
+      "event_title": "Brent crude hits new high",
+      "summary": "Ongoing geopolitical tensions in Middle East maintain upward pressure on global crude prices. Brent exceeds historical levels.",
+      "tags": ["commodity", "crude-oil", "market", "geopolitics"],
+      "price_impact": "up 1.2%",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://reuters.com",
+          "category": "news"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com",
+          "category": "news"
+        }
+      ]
+    }
+  ]
+}
