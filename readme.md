@@ -4,8 +4,10 @@ Historical fuel price data from various sources.
 
 ## structure
 
-- `data/prices-history.json` - processed price history in our standard format
-- `snapshots/` - raw data snapshots (timestamped)
+- `out/` - processed data
+  - `prices-history.json` - price history in standard format
+  - `annotations.json` - geopolitical event annotations
+- `src/` - raw source data (e.g. GasWatch PH snapshots)
 
 ## attribution
 
